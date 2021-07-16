@@ -8,7 +8,7 @@ https://www.draw.io/?mode=github
 
 Para Editar el Diagrama
 
-https://www.draw.io/#Hjgraph%2Fdrawio-diagrams%2Fmaster%2Fdiagrams%2Fschema.xml
+https://www.draw.io/#Hjgraph%2FDAW_REpo%2Fmaster%2Fdiagrams%2Fschema.xml
 
 ## Self-editing SVG file
 

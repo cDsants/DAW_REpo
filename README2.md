@@ -9,7 +9,7 @@ An example for integration into GitHub wikis is available here: https://github.c
 --
 
 ![Diagram](http://cDsants.github.io/DAW_REpo/Taller3.png)
-![Diagram](http://jgraph.github.io/drawio-github/Taller3.png)
+![Diagram](http://jgraph.github.io/drawio-github/diagram.png)
 
 <a href="http://jgraph.github.io/drawio-github/edit-diagram.html?repo=drawio-github&path=Taller3.png" target="_blank">Edit</a> | <a href="https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-github%2Fmaster%2FTaller3.png" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hjgraph%2Fdrawio-github%2Fmaster%2FTaller3.png" target="_blank">Edit in diagrams.net</a>
 
